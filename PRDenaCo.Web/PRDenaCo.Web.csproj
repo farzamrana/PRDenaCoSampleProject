@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Resources\Controllers\**" />
+    <Compile Remove="StartupBack\**" />
+    <Compile Remove="Views\Company\Old\**" />
+    <Compile Remove="Views\Dashboard\**" />
+    <Content Remove="Resources\Controllers\**" />
+    <Content Remove="StartupBack\**" />
+    <Content Remove="Views\Company\Old\**" />
+    <Content Remove="Views\Dashboard\**" />
+    <EmbeddedResource Remove="Resources\Controllers\**" />
+    <EmbeddedResource Remove="StartupBack\**" />
+    <EmbeddedResource Remove="Views\Company\Old\**" />
+    <EmbeddedResource Remove="Views\Dashboard\**" />
+    <None Remove="Resources\Controllers\**" />
+    <None Remove="StartupBack\**" />
+    <None Remove="Views\Company\Old\**" />
+    <None Remove="Views\Dashboard\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DateTimeBinder.cs" />
+    <Compile Remove="Models\Config\ExchangeRateModel.cs" />
+    <Compile Remove="Models\Voucher\OtherVoucherModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Company\AddNewCompany.cshtml" />
+    <Content Remove="Views\Company\Create.cshtml" />
+    <Content Remove="Views\Company\Details.cshtml" />
+    <Content Remove="Views\UserAccess\Index - Copy.cshtml" />
+    <Content Remove="Views\UserAccess\_SubUserAccessPartial.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Resources\Views\Account\_ViewAllPartial.en.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Company\_ViewAll.cshtml~RF1aa1583.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlTextWriter" Version="2.1.0" />
+    <PackageReference Include="jsTree" Version="3.1.1.2" />
+    <PackageReference Include="LazZiya.ExpressLocalization" Version="4.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="7.0.3" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="PasswordGenerator" Version="2.0.5" />
+    <PackageReference Include="Serilog" Version="2.10.0" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.2.0" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="5.6.0" />
+    <PackageReference Include="ServiceStack.Interfaces" Version="5.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Config\" />
+    <Folder Include="Resources\Views\Benefeciary\" />
+    <Folder Include="Views\Shared\Components\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Resources\Views\Account\_ViewAllPartial.en.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PRDenaCo.Infrastracture\PRDenaCo.Infrastracture.csproj" />
+    <ProjectReference Include="..\PRDenaCo.Persistence\PRDenaCo.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

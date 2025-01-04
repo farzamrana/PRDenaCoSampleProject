@@ -1,0 +1,12 @@
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\bin\Debug\net5.0\Demo.Common.deps.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\bin\Debug\net5.0\ref\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\ref\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Common\obj\Debug\net5.0\Demo.Common.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RPDena.Domain/1.0.0": {
+        "runtime": {
+          "RPDena.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPDena.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

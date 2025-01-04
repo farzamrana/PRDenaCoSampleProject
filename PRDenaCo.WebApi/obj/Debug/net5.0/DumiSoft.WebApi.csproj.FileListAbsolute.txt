@@ -1,0 +1,166 @@
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.exe
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.deps.json
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.json
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.xml
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\scopedcss\bundle\DumiSoft.WebApi.styles.css
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\Users\Administrator\source\repos\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.genruntimeconfig.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.json
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.exe
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.deps.json
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.json
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.dev.json
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\ref\DumiSoft.WebApi.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.pdb
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.AssemblyReference.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfoInputs.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfo.cs
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CoreCompileInputs.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.Manifest.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.xml
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\scopedcss\bundle\DumiSoft.WebApi.styles.css
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.RazorTargetAssemblyInfo.cache
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CopyComplete
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\ref\DumiSoft.WebApi.dll
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.pdb
+D:\DumiSoft\Project\DumiSoft\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.genruntimeconfig.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.exe
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.deps.json
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.json
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.dev.json
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\ref\DumiSoft.WebApi.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.pdb
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.AssemblyReference.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.en.resources
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.fr.resources
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.GenerateResource.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfoInputs.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfo.cs
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CoreCompileInputs.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.Manifest.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.xml
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\scopedcss\bundle\DumiSoft.WebApi.styles.css
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.RazorTargetAssemblyInfo.cache
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CopyComplete
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\ref\DumiSoft.WebApi.dll
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.pdb
+D:\Web\www\project\dumisoft\project\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.genruntimeconfig.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.json
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.exe
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.deps.json
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.json
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.dev.json
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.AssemblyReference.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.en.resources
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.fr.resources
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.GenerateResource.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfoInputs.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfo.cs
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CoreCompileInputs.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.Manifest.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.xml
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\scopedcss\bundle\DumiSoft.WebApi.styles.css
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.RazorTargetAssemblyInfo.cache
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CopyComplete
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\DumiSoft_Git\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.genruntimeconfig.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.exe
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.deps.json
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.json
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.runtimeconfig.dev.json
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.AssemblyReference.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.en.resources
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.Resources.Controllers.LanguageController.fr.resources
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.GenerateResource.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfoInputs.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.AssemblyInfo.cs
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\en\DumiSoft.WebApi.resources.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\fr\DumiSoft.WebApi.resources.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.Manifest.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\staticwebassets\DumiSoft.WebApi.StaticWebAssets.xml
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\scopedcss\bundle\DumiSoft.WebApi.styles.css
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.RazorTargetAssemblyInfo.cache
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.csproj.CopyComplete
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\ref\DumiSoft.WebApi.dll
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.pdb
+C:\Projects\DumiSoft Web\DumiSoft.WebApi\obj\Debug\net5.0\DumiSoft.WebApi.genruntimeconfig.cache

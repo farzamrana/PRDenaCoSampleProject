@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.WebApi\\Demo.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\Demo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\Demo.Application.csproj",
+        "projectName": "Demo.Application",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\Demo.Application.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\Demo.Common.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\Demo.Common.csproj"
+              },
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\Demo.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\Demo.Common.csproj",
+        "projectName": "Demo.Common",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\Demo.Common.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj",
+        "projectName": "Demo.Domain",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\Demo.Infrastracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\Demo.Infrastracture.csproj",
+        "projectName": "Demo.Infrastracture",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\Demo.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\Demo.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\Demo.Persistence.csproj",
+        "projectName": "Demo.Persistence",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\Demo.Persistence.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\Demo.Application.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Application\\Demo.Application.csproj"
+              },
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Domain\\Demo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pordell\\RPDenaCo\\Demo\\Demo.WebApi\\Demo.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.WebApi\\Demo.WebApi.csproj",
+        "projectName": "Demo.WebApi",
+        "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.WebApi\\Demo.WebApi.csproj",
+        "packagesPath": "C:\\Users\\d40\\.nuget\\packages\\",
+        "outputPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d40\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\Demo.Infrastracture.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Infrastracture\\Demo.Infrastracture.csproj"
+              },
+              "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\Demo.Persistence.csproj": {
+                "projectPath": "D:\\Pordell\\RPDenaCo\\Demo\\Demo.Persistence\\Demo.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

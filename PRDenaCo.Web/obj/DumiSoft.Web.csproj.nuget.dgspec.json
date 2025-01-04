@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\DumiSoft.Web\\DumiSoft.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\DumiSoft.Web\\DumiSoft.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\DumiSoft.Web\\DumiSoft.Web.csproj",
+        "projectName": "DumiSoft.Web",
+        "projectPath": "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\DumiSoft.Web\\DumiSoft.Web.csproj",
+        "packagesPath": "C:\\Users\\Peyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\DumiSoft.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Peyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\RPDena.Infrastracture\\RPDena.Infrastracture.csproj": {
+                "projectPath": "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\RPDena.Infrastracture\\RPDena.Infrastracture.csproj"
+              },
+              "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\RPDena.Persistence\\RPDena.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Peyman\\Desktop\\RPDenaCo\\RPDena\\RPDena.Persistence\\RPDena.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HtmlTextWriter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "LazZiya.ExpressLocalization": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "PasswordGenerator": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[5.12.0, )"
+            },
+            "jsTree": {
+              "target": "Package",
+              "version": "[3.1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+﻿
+@if (ViewData["IsRendred"] != null && (bool)ViewData["IsRendred"] == true)
+{
+    @RenderBody();
+}
+else
+{
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - شرکت پویا رایانه دنا</title>
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="~/media/image/favicon.png" />
+
+        <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/rtl.css" />
+        <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="~/css/animate.min.css" />
+        <link rel="stylesheet" href="~/css/owl.carousel.min.css" />
+        <link rel="stylesheet" href="~/css/lightbox.min.css" />
+        <link rel="stylesheet" href="~/css/styles.css" />
+
+    </head>
+    <body id="home">
+
+        <header id="navbar">
+            <div id="logo">
+                <h4><a href="#">لوگو</a></h4>
+            </div>
+            <div id="toggler">
+                <i class="fa fa-bars"></i>
+            </div>
+            <nav id="nav">
+                <ul class="list-unstyled">
+                    <li><a href="#home">خانه</a></li>
+                    <li><a href="#about">درباره ما</a></li>
+                    <li><a href="#services">خدمات</a></li>
+                    <li><a href="#stats">آمار</a></li>
+                    <li><a href="#portfolio">نمونه کارها</a></li>
+                    <li><a href="#team">تیم ما</a></li>
+                    <li><a href="#clients">مشتریان ما</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        @RenderBody()
+
+        <footer id="footer" class="text-light text-justify">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <h5>درباره شرکت</h5>
+                        <p>
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+                            چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع.
+                        </p>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5>پیوندهای مفید</h5>
+                        <ul class="list-unstyled">
+                            <li><i class="fa fa-angle-left"></i><a href="#">خانه</a></li>
+                            <li><i class="fa fa-angle-left"></i><a href="#">درباره ما</a></li>
+                            <li><i class="fa fa-angle-left"></i><a href="#">خدمات</a></li>
+                            <li><i class="fa fa-angle-left"></i><a href="#">قوانین و مقررات</a></li>
+                            <li><i class="fa fa-angle-left"></i><a href="#">حریم خصوصی</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5>تماس با ما</h5>
+                        <p>
+                            تهران -  خیابان انقلاب -  پلاک ۱۲۳۴
+                        </p>
+                        <p>
+                            <strong>تلفن : </strong><span style="direction: ltr;display: inline-block">۰۲۱ - ۱۲۳۴۵۶۷۸۹</span><br />
+                            <strong>ایمیل : </strong>info@example.com<br />
+                        </p>
+                        <div class="links">
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h5>خبرنامه</h5>
+                        <p>
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+                            چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
+                        </p>
+                        <form>
+                            <input type="email" name="email" placeholder="ایمیل خود را وارد کنید" />
+                            <button type="submit">عضویت</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: black;">
+                <p class="text-center p-3 mb-0">کلیه حقوق برای این شرکت محفوظ است.</p>
+            </div>
+        </footer>
+
+        <a href="#home" id="go-to-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+
+
+        <!-- Plugin scripts -->
+        @await RenderSectionAsync("Vendors", required: false)
+
+        <!-- App scripts -->
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/lightbox.min.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/counterup.min.js"></script>
+        <script src="js/scripts.js"></script>
+
+
+
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>
+}

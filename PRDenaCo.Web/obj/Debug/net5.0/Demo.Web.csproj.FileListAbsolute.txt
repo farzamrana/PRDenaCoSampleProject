@@ -1,0 +1,576 @@
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\appsettings.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.exe
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.deps.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.runtimeconfig.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.runtimeconfig.dev.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ref\Demo.Web.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\en\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\fr\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.Views.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Web.Views.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\HtmlTextWriter.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\LazZiya.ExpressLocalization.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Nancy.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\PasswordGenerator.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Infrastracture.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Persistence.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Models.Companies.CompanyModel.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Models.Companies.CompanyModel.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Customer.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Customer.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Supplier.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Supplier.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewAllPartial.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewChildrenPartial.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewChildrenPartial.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary._ViewAll.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company._ViewAll.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate._ViewAll.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Home.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Home.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.Index.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.Index.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Shared._CulturePartial.en.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Shared._CulturePartial.fr.resources
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.csproj.GenerateResource.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.RazorAssemblyInfo.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.RazorAssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\en\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\fr\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\staticwebassets\Demo.Web.StaticWebAssets.Manifest.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\staticwebassets\Demo.Web.StaticWebAssets.xml
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\scopedcss\bundle\Demo.Web.styles.css
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.TagHelpers.input.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.TagHelpers.output.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.RazorCoreGenerate.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\DeleteConfirmed.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\ViewInfo.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Account\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Account\ViewInfo.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Account\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Auth\Forgot.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\BranchUsers\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\BuySellCurrency\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\BuySellCurrency\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Company\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Company\Delete.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Company\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CostCenter\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CostCenter\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\CostCenter\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Currency\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Currency\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Currency\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Grid\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Home\DashboardThree.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Home\DashboardTwo.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Home\SetCurrentDate.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\VoucherList.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\VoucherList.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Project\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Project\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Project\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\GetMenu\GetMenu.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\_CulturePartial.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\_SetUserCompany.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\UserAccess\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.RazorTargetAssemblyInfo.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.RazorTargetAssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.Views.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.csproj.CopyComplete
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\ref\Demo.Web.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Web\obj\Debug\net5.0\Demo.Web.genruntimeconfig.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\appsettings.json
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.exe
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.deps.json
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.runtimeconfig.json
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.runtimeconfig.dev.json
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ref\Demo.Web.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\en\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\fr\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.Views.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Web.Views.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\HtmlTextWriter.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\LazZiya.ExpressLocalization.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Nancy.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\PasswordGenerator.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Infrastracture.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Persistence.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Models.Companies.CompanyModel.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Models.Companies.CompanyModel.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Customer.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Customer.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Supplier.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account.Supplier.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewAllPartial.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewChildrenPartial.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Account._ViewChildrenPartial.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary._ViewAll.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Benefeciary._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company._ViewAll.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Company._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.CostCenter.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate._ViewAll.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.ExchangeRate._ViewAll.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Home.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Home.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.AddOrEdit.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.AddOrEdit.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.Index.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Project.Index.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Shared._CulturePartial.en.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Resources.Views.Shared._CulturePartial.fr.resources
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.csproj.GenerateResource.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.RazorAssemblyInfo.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.RazorAssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\en\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\fr\Demo.Web.resources.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\staticwebassets\Demo.Web.StaticWebAssets.Manifest.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\staticwebassets\Demo.Web.StaticWebAssets.xml
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\scopedcss\bundle\Demo.Web.styles.css
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.TagHelpers.input.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.TagHelpers.output.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.RazorCoreGenerate.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\DeleteConfirmed.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\ViewInfo.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\AccountGroup\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Account\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Account\ViewInfo.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Account\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Auth\Forgot.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Benefeciary\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\BranchUsers\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\BuySellCurrency\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\BuySellCurrency\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyBranch\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyFinancialCycle\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CompanyUsers\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Company\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Company\Delete.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Company\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CostCenter\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CostCenter\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\CostCenter\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Currency\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Currency\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Currency\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\ExchangeRate\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Grid\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Home\DashboardThree.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Home\DashboardTwo.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Home\SetCurrentDate.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\VoucherList.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\JournalVoucher\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\VoucherList.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\OtherVoucher\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Project\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Project\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Project\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\GetMenu\GetMenu.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\_CulturePartial.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\_SetUserCompany.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\AddOrEdit.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\SuffixPrefix\_ViewAll.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\UserAccess\Index.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.RazorTargetAssemblyInfo.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.RazorTargetAssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.Views.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.csproj.CopyComplete
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\ref\Demo.Web.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Web\obj\Debug\net5.0\Demo.Web.genruntimeconfig.cache

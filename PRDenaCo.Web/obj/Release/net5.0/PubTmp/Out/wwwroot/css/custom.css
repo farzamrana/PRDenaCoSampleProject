@@ -1,0 +1,84 @@
+﻿.divTable {
+    overflow-x: scroll;
+    overflow-y: scroll;
+    max-height: 300px;
+    min-height: 300px;
+}
+.divTree {
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 400px;
+    min-height: 400px;
+}
+#mainTable {
+    width: 2000px;
+}
+
+    #mainTable tr td {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .impactTable tr td {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    #mainTable label{
+        margin-bottom:0px;
+    }
+
+ul.ui-autocomplete {
+    z-index: 11000;
+}
+#mainTable a.btnDelete:hover {
+    color: red;
+    cursor: pointer;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: #f8f9fa;
+    opacity: 1;
+}
+#infoTable .highlight td {
+    background-color: lightgray;
+}
+#infoTableOther .highlight td {
+    background-color: lightgray;
+}
+form .form-group {
+    margin-bottom: 5px;
+    
+}
+
+.file-upload {
+   
+    width: 100px;
+   
+    border: 4px solid #FFFFFF;
+   
+}
+    input [type='file']
+
+{
+   
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+.jstree-wholerow {
+    height: auto;
+    border-top: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+}
+.jstree-anchor {
+    height: auto;
+    width: 100%;
+    margin-top: 3px;
+
+}
+.jstree-icon {
+    margin-top: 5px;
+    
+}

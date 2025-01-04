@@ -1,0 +1,12 @@
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\bin\Debug\net5.0\Demo.Infrastracture.deps.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\bin\Debug\net5.0\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\bin\Debug\net5.0\ref\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\bin\Debug\net5.0\Demo.Infrastracture.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\ref\Demo.Infrastracture.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Infrastracture\obj\Debug\net5.0\Demo.Infrastracture.pdb

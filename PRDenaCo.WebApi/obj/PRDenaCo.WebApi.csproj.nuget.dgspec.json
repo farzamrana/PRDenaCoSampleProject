@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.WebApi\\PRDenaCo.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\PRDenaCo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\PRDenaCo.Application.csproj",
+        "projectName": "PRDenaCo.Application",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\PRDenaCo.Application.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\PRDenaCo.Common.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\PRDenaCo.Common.csproj"
+              },
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\PRDenaCo.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\PRDenaCo.Common.csproj",
+        "projectName": "PRDenaCo.Common",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\PRDenaCo.Common.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj",
+        "projectName": "PRDenaCo.Domain",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\PRDenaCo.Infrastracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\PRDenaCo.Infrastracture.csproj",
+        "projectName": "PRDenaCo.Infrastracture",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\PRDenaCo.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\PRDenaCo.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\PRDenaCo.Persistence.csproj",
+        "projectName": "PRDenaCo.Persistence",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\PRDenaCo.Persistence.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\PRDenaCo.Application.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Application\\PRDenaCo.Application.csproj"
+              },
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Domain\\PRDenaCo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.WebApi\\PRDenaCo.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.WebApi\\PRDenaCo.WebApi.csproj",
+        "projectName": "PRDenaCo.WebApi",
+        "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.WebApi\\PRDenaCo.WebApi.csproj",
+        "packagesPath": "C:\\Users\\d23.PRD\\.nuget\\packages\\",
+        "outputPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d23.PRD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\PRDenaCo.Infrastracture.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Infrastracture\\PRDenaCo.Infrastracture.csproj"
+              },
+              "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\PRDenaCo.Persistence.csproj": {
+                "projectPath": "C:\\Hosseini\\PRDenaCoSampleProject\\PRDenaCo.Persistence\\PRDenaCo.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

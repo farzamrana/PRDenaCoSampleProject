@@ -1,0 +1,38 @@
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Persistence.deps.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\ref\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Persistence.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.CopyComplete
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\ref\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Persistence\obj\Debug\net5.0\Demo.Persistence.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Persistence.deps.json
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\ref\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Persistence.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.csproj.CopyComplete
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\ref\Demo.Persistence.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Persistence\obj\Debug\net5.0\Demo.Persistence.pdb
