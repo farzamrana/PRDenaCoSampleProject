@@ -1,0 +1,34 @@
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Application.deps.json
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\ref\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.csproj.CopyComplete
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\ref\Demo.Application.dll
+D:\Pordell\RPDenaCo\RPDena - Copy\RPDena.Application\obj\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.deps.json
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\ref\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Common.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Domain.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Common.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Application\bin\Debug\net5.0\Demo.Domain.pdb
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csproj.AssemblyReference.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfoInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfo.cs
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csproj.CoreCompileInputs.cache
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csproj.CopyComplete
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\ref\Demo.Application.dll
+D:\Pordell\RPDenaCo\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.pdb

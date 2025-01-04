@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\Companies\Queries\GetAllCurrencies\**" />
+    <EmbeddedResource Remove="Services\Companies\Queries\GetAllCurrencies\**" />
+    <None Remove="Services\Companies\Queries\GetAllCurrencies\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PRDenaCo.Common\PRDenaCo.Common.csproj" />
+    <ProjectReference Include="..\PRDenaCo.Domain\PRDenaCo.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Vouchers\PaymentVoucher\Commands\" />
+    <Folder Include="Services\Vouchers\ReceiptVoucher\Commands\" />
+    <Folder Include="Services\Vouchers\Remittance\Commands\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.csproj.AssemblyReference.cache
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.AssemblyInfoInputs.cache
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.AssemblyInfo.cs
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Application.deps.json
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Application.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\ref\RPDena.Application.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Application.pdb
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Common.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Domain.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Common.pdb
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\bin\Debug\net5.0\RPDena.Domain.pdb
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.csproj.CopyComplete
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\ref\RPDena.Application.dll
+C:\Users\Peyman\Desktop\RPDenaCo\RPDena\RPDena.Application\obj\Debug\net5.0\RPDena.Application.pdb
